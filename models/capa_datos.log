@@ -1,0 +1,3 @@
+11:45:00 AM: DEBUG [Persona.py:41] Persona[ID: 1 ,Nombre: Chistian ,Apellido: Palacios, Gmail: Correo@correo.com]
+11:49:36 AM: DEBUG [Persona.py:41] Persona[ID: None ,Nombre: Chistian ,Apellido: Palacios, Gmail: Correo@correo.com]
+04:38:27 PM: DEBUG [Persona.py:41] Persona[ID: None ,Nombre: Chistian ,Apellido: Palacios, Gmail: Correo@correo.com]
